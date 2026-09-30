@@ -25,15 +25,15 @@ A simple menu-driven bank account program written in Python. It runs in the term
 
 ## How to Run
 
-1. Save the code in a file named `project.py`.
+1. Save the code in a file named `code.py`.
 2. Open a terminal in the folder containing the file.
 3. Run:
 
 ```bash
-python project.py
+python code.py
 ```
 
-(On some systems use `python3 project.py`.)
+(On some systems use `python3 code.py`.)
 
 ## Sample Run
 
@@ -82,7 +82,7 @@ Thank you for using the bank system. Goodbye!
 
 ```
 .
-├── project.py     # complete program (single file)
+├── code.py     # complete program (single file)
 ├── README.md      # project overview and usage
 └── statement.md   # project statement
 ```
