@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | **Student Name** | Priyanshu Kumar |
-| **Registration No.** | 26BAi10969 |
+| **Registration No.** | 26BAI10969 |
 | **Project Type** | Python console application |
 
 ---
