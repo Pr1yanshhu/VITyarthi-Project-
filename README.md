@@ -46,7 +46,7 @@ python code.py
 5. Display Account Details
 6. Exit
 Enter your choice (1-6): 1
-Enter account holder name: Rahul Sharma
+Enter account holder name: Anushka Nagar
 Enter initial deposit: 5000
 Account created successfully!
 Your account number is: 1001
