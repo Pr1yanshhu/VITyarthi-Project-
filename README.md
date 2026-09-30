@@ -5,7 +5,7 @@ A simple menu-driven bank account program written in Python. It runs in the term
 | | |
 |---|---|
 | **Name** | Priyanshu Kumar |
-| **Registration No.** | 26BAi10969 |
+| **Registration No.** | 26BAI10969 |
 
 ---
 
